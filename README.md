@@ -14,5 +14,3 @@
 ## Interest
 * Language: `Kotlin`, `Java`, `TypeScript`, `Python`
 * Platform: `Android`, `Backend (Spring, Node, Flask)`, `Frontend (React, Vue.js)`
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windsekirun&layout=compact&hide=html,Objective-C)](https://github.com/anuraghazra/github-readme-stats)
