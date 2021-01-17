@@ -1,6 +1,8 @@
 # WindSekirun (wind.seo)
 **Android Developer, Kotlin Lover**. Current working on: **@kakaobank**
 
+[![WindSekirun's github stats](https://github-readme-stats.vercel.app/api?username=windsekirun&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) 
+
 ## Contact Me
 * Kakaotalk: WindSekirun
 * Telegram: [@WindSekirun](https://t.me/windsekirun)
@@ -13,4 +15,4 @@
 * Language: `Kotlin`, `Java`, `TypeScript`, `Python`
 * Platform: `Android`, `Backend (Spring, Node, Flask)`, `Frontend (React, Vue.js)`
 
-[![WindSekirun's github stats](https://github-readme-stats.vercel.app/api?username=windsekirun)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windsekirun&layout=compact&hide=html,Objective-C)](https://github.com/anuraghazra/github-readme-stats)
