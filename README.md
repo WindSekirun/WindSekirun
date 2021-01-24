@@ -1,7 +1,7 @@
 # WindSekirun (wind.seo)
 **Android Developer, Kotlin Lover**. Current working on [**@kakaobank**](https://github.com/kakaobank) from 2019.06
 
-[![WindSekirun's github stats](https://readme-stats.uzuki.live/api?username=windsekirun&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) 
+[![WindSekirun's github stats](https://github-readme-stats.vercel.app/api?username=windsekirun&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Contact Me
 * Kakaotalk: WindSekirun
