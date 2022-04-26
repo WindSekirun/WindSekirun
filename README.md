@@ -9,7 +9,7 @@
 * Twitter: [@WindSekirun](https://twitter.com/WindSekirun/)
 * Discord: Pyxis@1324
 * Linked-in: [Seo Dong Gil](https://www.linkedin.com/in/windsekirun/)
-* Blog: [PyxisPub](https://pyxispub.uzuki.live)
+* Blog: https://velog.io/@windsekirun
 
 ## Interest
 * Language: `Kotlin`, `Java`, `TypeScript`, `Python`
