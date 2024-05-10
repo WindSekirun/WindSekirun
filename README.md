@@ -13,4 +13,4 @@
 
 ## Interest
 * Language: `Kotlin`, `Java`, `TypeScript`, `Python`
-* Platform: `Android`, `Backend (Spring, Node, Flask)`, `Frontend (React, Vue.js)`
+* Platform: `Android`, `Backend (Spring, Node)`, `Frontend (Vue.js)`
